@@ -12,6 +12,8 @@ import models.car.CarType;
 
 public class CarListAdapter {
 	
+	//Change1 
+	
 	private CarManager carManager;
 	
 	public CarListAdapter(CarManager carManager){
