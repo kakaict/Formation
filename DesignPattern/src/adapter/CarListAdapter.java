@@ -20,8 +20,6 @@ public class CarListAdapter {
 	
 	public List<Car> getListCarImport(){
 		
-		
-		
 		List<Car> listCarImport = new ArrayList<Car>();
 		
 		Map<Integer, String> listCarName 		= carManager.getAllCar();
