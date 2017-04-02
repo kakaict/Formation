@@ -25,9 +25,9 @@ public class Pattern {
 
 //		builderPattern();
 //		singletonPattern();
-//		adapterPattern();
+		adapterPattern();
 		
-		decoratorPattern();
+//		decoratorPattern();
 //		iteratorPattern();
 	}
 	
