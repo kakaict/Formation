@@ -27,8 +27,8 @@ public class Pattern {
 //		singletonPattern();
 //		adapterPattern();
 		
-//		decoratorPattern();
-		iteratorPattern();
+		decoratorPattern();
+//		iteratorPattern();
 	}
 	
 	public static void iteratorPattern(){
